@@ -1,15 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 <br />
-<p align="center">
-  <a href="https://github.com/AveGamers/HTML_Template_error_codes">
-    <img src="https://github.com/AveGamers/HTML_Template_error_codes/logo.jpg" alt="Logo" width="100">
-  </a>
-
   <h3 align="center">HTML Templates for HTTP status codes</h3>
 
   <p align="center">
@@ -29,13 +18,13 @@
 </p>
 
 ## Screenshots ##
-![Screenshot](https://github.com/AveGamers/HTML_Template_error_codes/readme-banner.png)
+![Screenshot](./other_files/readme_screenshot.png)
 
 ## Templates demo ##
-* [HTTP404](https://github.com/AveGamers/HTML_Template_error_codes/404/)
-* [HTTP500](https://github.com/AveGamers/HTML_Template_error_codes/500/)
-* [HTTP503](https://github.com/AveGamers/HTML_Template_error_codes/503/)
-* [HTTP504](https://github.com/AveGamers/HTML_Template_error_codes/504/)
+* [HTTP404](./404/)
+* [HTTP500](./500/)
+* [HTTP503](./503/)
+* [HTTP504](./504/)
 
 ## Usage ##
 Just clone/download the git repository (The html files are included on error number folder, example "500/index.html" for 500 Internal Server Error)
