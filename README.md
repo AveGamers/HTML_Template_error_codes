@@ -6,8 +6,8 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/PecceG2/HTML_Template_http_codes">
-    <img src="https://pecceg2.github.io/HTTP_Console_HTML_Template/logo.jpg" alt="Logo" width="100">
+  <a href="https://github.com/AveGamers/HTML_Template_error_codes">
+    <img src="https://github.com/AveGamers/HTML_Template_error_codes/logo.jpg" alt="Logo" width="100">
   </a>
 
   <h3 align="center">HTML Templates for HTTP status codes</h3>
@@ -17,25 +17,25 @@
 	<br />
 	Change default nginx/apache templates for a responsive and more attractive design
     <br />
-    <a href="https://github.com/PecceG2/"><strong>View all my projects »</strong></a>
+    <a href="https://github.com/AveGamers/"><strong>View all my projects »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PecceG2/HTML_Template_http_codes/issues">Report Bug</a>
+    <a href="https://github.com/AveGamers/HTML_Template_error_codes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/PecceG2/HTML_Template_http_codes/blob/master/LICENSE.md">View License</a>
+    <a href="https://github.com/AveGamers/HTML_Template_error_codes/blob/master/LICENSE.md">View License</a>
     ·
-    <a href="https://github.com/PecceG2/HTML_Template_http_codes/issues">Request Feature</a>
+    <a href="https://github.com/AveGamers/HTML_Template_error_codes/issues">Request Feature</a>
   </p>
 </p>
 
 ## Screenshots ##
-![Screenshot](https://pecceg2.github.io/HTTP_Console_HTML_Template/readme-banner.png)
+![Screenshot](https://github.com/AveGamers/HTML_Template_error_codes/readme-banner.png)
 
 ## Templates demo ##
-* [HTTP404](https://pecceg2.github.io/HTTP_Console_HTML_Template/404/)
-* [HTTP500](https://pecceg2.github.io/HTTP_Console_HTML_Template/500/)
-* [HTTP503](https://pecceg2.github.io/HTTP_Console_HTML_Template/503/)
-* [HTTP504](https://pecceg2.github.io/HTTP_Console_HTML_Template/504/)
+* [HTTP404](https://github.com/AveGamers/HTML_Template_error_codes/404/)
+* [HTTP500](https://github.com/AveGamers/HTML_Template_error_codes/500/)
+* [HTTP503](https://github.com/AveGamers/HTML_Template_error_codes/503/)
+* [HTTP504](https://github.com/AveGamers/HTML_Template_error_codes/504/)
 
 ## Usage ##
 Just clone/download the git repository (The html files are included on error number folder, example "500/index.html" for 500 Internal Server Error)
@@ -87,17 +87,6 @@ ErrorDocument 504 /ErrorPages/504/index.html
 ```
 
 ## License
->You can check out the full license [here](https://github.com/PecceG2/HTML_Template_http_codes/blob/master/LICENSE.md)
+>You can check out the full license [here](https://github.com/AveGamers/HTML_Template_error_codes/blob/master/LICENSE.md)
 
 This project is licensed under the terms of the **MIT** license.
-
-[contributors-shield]: https://img.shields.io/github/contributors/PecceG2/HTML_Template_http_codes.svg?style=flat-square
-[contributors-url]: https://github.com/PecceG2/HTML_Template_http_codes/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PecceG2/HTML_Template_http_codes.svg?style=flat-square
-[forks-url]: https://github.com/PecceG2/HTML_Template_http_codes/network/members
-[stars-shield]: https://img.shields.io/github/stars/PecceG2/HTML_Template_http_codes.svg?style=flat-square
-[stars-url]: https://github.com/PecceG2/HTML_Template_http_codes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PecceG2/HTML_Template_http_codes.svg?style=flat-square
-[issues-url]: https://github.com/PecceG2/HTML_Template_http_codes/issues
-[license-shield]: https://img.shields.io/github/license/PecceG2/HTML_Template_http_codes.svg?style=flat-square
-[license-url]: https://github.com/PecceG2/HTML_Template_http_codes/blob/master/LICENSE.md
